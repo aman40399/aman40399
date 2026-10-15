@@ -64,4 +64,4 @@ Forward Deployed & AI Systems Engineer focused on engineering high-reliability s
 
 - **GitHub:** [github.com/aman40399](https://github.com/aman40399)
 - **LinkedIn:** [linkedin.com/in/aman40399](https://www.linkedin.com/in/aman40399)
-- **Email:** `aman40399@users.noreply.github.com`
+- **Email:** [nevermind40399@gmail.com](mailto:nevermind40399@gmail.com) · [amansingh.19d@gmail.com](mailto:amansingh.19d@gmail.com)
