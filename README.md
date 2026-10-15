@@ -1,63 +1,67 @@
-<h2 align="left">Hi 👋! I'm Aman<br><br>I'm an MLOps student passionate about DevOps, Machine Learning, and building reliable, production-ready systems. I thrive on optimizing workflows, ensuring seamless deployments, and maintaining well-documented, scalable infrastructures.<br><br>🔹 Actively learning: DevOps, MLOps, CI/CD, Kubernetes, and Cloud Computing<br>🔹 Passionate about: System reliability, automation, and clean documentation<br>🔹 Goal: Building robust, production-ready ML pipelines<br><br>Let's connect and build something great together! 🚀</h2>
+# Aman Singh
 
-###
+**Forward Deployed Engineer (FDE) · AI Systems · Distributed Infrastructure**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman40399&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman40399&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+```text
+[SYS_ARCH]  Distributed Protocols · Sub-second Ingestion · Double-Entry Accounting
+[AI_ENG]    On-Device / In-Browser ASR (Whisper) · LLM Agent Orchestration · RAG Pipelines
+[OPERATIONS] Linux Internals · SQLite (WAL) · Event-Driven Architectures · Cloud Systems
+```
 
-###
+---
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXBheHlqcGh4NXFxd2pkencxY2JhNTdoazBnbzJsam9nNHhtMXd2ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif"  />
+## Technical Profile
 
-###
+Forward Deployed & AI Systems Engineer focused on engineering high-reliability software where distributed systems, real-time machine learning, and mission-critical production environments intersect.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
-</div>
+- **Distributed Systems & Protocols:** Designing zero-middleware coordination algorithms, spatial-temporal fingerprinting mechanisms, and idempotent event pipelines.
+- **Applied AI & Edge Inference:** Productionizing low-latency voice/ASR pipelines, LLM-driven autonomous workflows, and evaluation harnesses.
+- **Forward-Deployed Engineering:** Translating complex client requirements into scalable, observable, and resilient software architectures.
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="nevermind40399@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/aman40399" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+## Featured Systems & Engineering Work
 
-###
+### [Axiom](https://github.com/aman40399/axiom)
+**An $\epsilon$-Jitter Protocol for Zero-Middleware Payment Settlement**
+- Engineered an automated settlement reconciliation engine eliminating intermediary payment gateway dependencies (2–3% fee avoidance) across native peer-to-peer banking rails.
+- Formulated the **Adaptive $\epsilon$-Jitter Allocation (ADJA)** protocol, establishing provable collision-free payment fingerprinting with $\mathcal{O}(1)$ lookup complexity over bounded search horizons.
+- Built an ACID double-entry accounting ledger using SQLite in Write-Ahead Logging (WAL) mode with bank UTR idempotency filtering.
+- *Stack:* Distributed Algorithms, Node.js, SQLite (WAL), Telegram Relay, REST APIs.
 
-<br clear="both">
+### [career-pilot](https://github.com/aman40399/career-pilot)
+**Real-Time AI Voice Copilot & Technical Interview Simulation Engine**
+- Built an in-browser voice assessment system powered by local/edge Whisper Small ASR model execution, eliminating client-server audio streaming latency.
+- Implemented real-time audio chunk processing, generative feedback evaluation loops, and low-latency response generation.
+- *Stack:* In-Browser Whisper ASR, Web Audio API, Next.js, TypeScript, Generative AI.
 
-<img src="https://raw.githubusercontent.com/aman40399/aman40399/output/snake.svg" alt="Snake animation" />
+### [DAD (Singh Monster)](https://github.com/aman40399/DAD)
+**High-Throughput Digital Publishing Platform & Inverted Search Index**
+- Architected a high-concurrency editorial platform featuring real-time automated ingestion, full-text inverted search indexing, and edge-cached content delivery.
+- Designed schema-level optimizations, server-side render pipelines, and sub-100ms query latency across multi-tenant content streams.
+- *Stack:* Next.js 14, Supabase, PostgreSQL, Edge Middleware, Lucene-style search.
 
-###
+### [Bias & Mitigation Research](https://github.com/aman40399/bias-and-mitigation_2025)
+**Empirical AI Fairness & Model Evaluation Framework**
+- Structured an academic research evaluation harness for statistical auditing, representation testing, and bias mitigation across generative language models.
+- *Stack:* Python, PyTorch, Statistical Evaluation, Data Collection Pipelines.
+
+---
+
+## Core Competencies
+
+| Domain | Technologies & Systems |
+|---|---|
+| **Languages** | TypeScript, JavaScript, Python, Go, C/C++, SQL, Bash |
+| **Distributed Systems & Backend** | Distributed Consensus & Protocols, Node.js, Express, SQLite (WAL), PostgreSQL, Redis, REST APIs, Webhooks |
+| **AI & Machine Learning** | Whisper ASR, Local Inference, LLM Tool Calling & Agents, RAG Pipelines, Vector Indexing, PyTorch |
+| **Infrastructure & SRE** | Linux Systems Internals, Docker, Kubernetes, AWS (Lambda, DynamoDB, S3, ECS), CI/CD, Git Internals |
+| **Architectural Paradigms** | Event-Driven Architecture, Double-Entry Bookkeeping, Idempotent APIs, Finite State Machines (FSM) |
+
+---
+
+## Connect
+
+- **GitHub:** [github.com/aman40399](https://github.com/aman40399)
+- **LinkedIn:** [linkedin.com/in/aman40399](https://www.linkedin.com/in/aman40399)
+- **Email:** `aman40399@users.noreply.github.com`
