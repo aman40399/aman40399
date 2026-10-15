@@ -41,10 +41,12 @@ Forward Deployed & AI Systems Engineer focused on engineering high-reliability s
 - Designed schema-level optimizations, server-side render pipelines, and sub-100ms query latency across multi-tenant content streams.
 - *Stack:* Next.js 14, Supabase, PostgreSQL, Edge Middleware, Lucene-style search.
 
-### [Bias & Mitigation Research](https://github.com/aman40399/bias-and-mitigation_2025)
-**Empirical AI Fairness & Model Evaluation Framework**
-- Structured an academic research evaluation harness for statistical auditing, representation testing, and bias mitigation across generative language models.
-- *Stack:* Python, PyTorch, Statistical Evaluation, Data Collection Pipelines.
+### [Algorithmic Bias & Mitigation in AI Systems](https://github.com/aman40399/bias-and-mitigation_2025)
+**Systematic Review & Empirical AI Fairness Framework (2025)**
+- Authored systematic review paper analyzing algorithmic bias quantification and mitigation across LLMs, image generation, and video models across 2016–2025 literature.
+- Evaluated debiasing techniques on standardized benchmarks (WinoBias, StereoSet, BBQ, FairFace) and formulated an efficiency frontier comparing bias reduction against accuracy tradeoffs.
+- Direct paper link: [Download Paper PDF](https://github.com/aman40399/bias-and-mitigation_2025/blob/main/algorithmic-bias-and-mitigation-in-ai-systems-systematic-review.pdf).
+- *Stack:* Python, PyTorch, Statistical Evaluation, Systematic Auditing, Benchmarks.
 
 ---
 
@@ -58,7 +60,7 @@ Production web architectures, platforms, and distributed web applications delive
 | **Fitrious** | Emotional Wellness Rituals & Direct-to-Consumer E-Commerce | Responsive edge catalog, secure payment processing integrations, optimized bundle logic, and zero-latency cart state management. | [fitrious.shop](https://www.fitrious.shop/) |
 | **Alkan Global Exports** | International Trading & Enterprise Export Portal | Enterprise product catalog, B2B quote inquiries, multi-region compliance workflows, and search-indexed technical trade schemas. | [alkanglobalexports.com](https://www.alkanglobalexports.com/) |
 | **iHumanities Journal** | Academic Peer-Reviewed Journal & Manuscript Publishing | Double-blind manuscript submission workflows, automated editorial review state tracking, and open-access volume indexing (ISSN registered). | [ihumanitiesjournal.in](https://www.ihumanitiesjournal.in/) |
-| **Cufy** | Real-Time Multi-Tenant Collaboration & Utility Platform | Interactive cloud utility toolset, real-time client state synchronization, and low-latency edge application deployment. | [cufy-v4-89a5.vercel.app](https://cufy-v4-89a5.vercel.app/) |
+| **Cufy** | Real-Time Social Matchmaking & Connection Platform | User discovery and matchmaking algorithms, real-time connection state management, low-latency messaging, and responsive edge UI. | [cufy-v4-89a5.vercel.app](https://cufy-v4-89a5.vercel.app/) |
 | **ONC Sharda Tech** | Open Source NCR Community & Engineering Hub | Developer ecosystem portal, event registration & check-in pipelines, member onboarding workflows, and technical community index. | [onc.shardatech.org](https://onc.shardatech.org/) |
 
 ---
