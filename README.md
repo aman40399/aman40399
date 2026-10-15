@@ -35,7 +35,7 @@ Forward Deployed & AI Systems Engineer focused on engineering high-reliability s
 - Implemented real-time audio chunk processing, generative feedback evaluation loops, and low-latency response generation.
 - *Stack:* In-Browser Whisper ASR, Web Audio API, Next.js, TypeScript, Generative AI.
 
-### [DAD (Singh Monster)](https://github.com/aman40399/DAD)
+### [Singh Monster](https://www.singh.monster/) · [Source](https://github.com/aman40399/DAD)
 **High-Throughput Digital Publishing Platform & Inverted Search Index**
 - Architected a high-concurrency editorial platform featuring real-time automated ingestion, full-text inverted search indexing, and edge-cached content delivery.
 - Designed schema-level optimizations, server-side render pipelines, and sub-100ms query latency across multi-tenant content streams.
@@ -45,6 +45,21 @@ Forward Deployed & AI Systems Engineer focused on engineering high-reliability s
 **Empirical AI Fairness & Model Evaluation Framework**
 - Structured an academic research evaluation harness for statistical auditing, representation testing, and bias mitigation across generative language models.
 - *Stack:* Python, PyTorch, Statistical Evaluation, Data Collection Pipelines.
+
+---
+
+## Production Deployments & Commercial Systems
+
+Production web architectures, platforms, and distributed web applications delivered for live commercial enterprises, publications, and communities:
+
+| System / Client | Domain & Objective | Architecture & Highlights | Live Deployment |
+|---|---|---|---|
+| **Singh Monster** | Digital News & Investigative Editorial Platform | Edge-cached ISR rendering, sub-100ms full-text inverted search indexing, automated RSS/ingestion pipelines, high-throughput content distribution. | [singh.monster](https://www.singh.monster/) |
+| **Fitrious** | Emotional Wellness Rituals & Direct-to-Consumer E-Commerce | Responsive edge catalog, secure payment processing integrations, optimized bundle logic, and zero-latency cart state management. | [fitrious.shop](https://www.fitrious.shop/) |
+| **Alkan Global Exports** | International Trading & Enterprise Export Portal | Enterprise product catalog, B2B quote inquiries, multi-region compliance workflows, and search-indexed technical trade schemas. | [alkanglobalexports.com](https://www.alkanglobalexports.com/) |
+| **iHumanities Journal** | Academic Peer-Reviewed Journal & Manuscript Publishing | Double-blind manuscript submission workflows, automated editorial review state tracking, and open-access volume indexing (ISSN registered). | [ihumanitiesjournal.in](https://www.ihumanitiesjournal.in/) |
+| **Cufy** | Real-Time Multi-Tenant Collaboration & Utility Platform | Interactive cloud utility toolset, real-time client state synchronization, and low-latency edge application deployment. | [cufy-v4-89a5.vercel.app](https://cufy-v4-89a5.vercel.app/) |
+| **ONC Sharda Tech** | Open Source NCR Community & Engineering Hub | Developer ecosystem portal, event registration & check-in pipelines, member onboarding workflows, and technical community index. | [onc.shardatech.org](https://onc.shardatech.org/) |
 
 ---
 
