@@ -22,7 +22,7 @@ Forward Deployed & AI Systems Engineer focused on engineering high-reliability s
 
 ## Featured Systems & Engineering Work
 
-### [Axiom](https://github.com/aman40399/axiom)
+### [AxiomUPI](https://github.com/aman40399/AxiomUPI)
 **An $\epsilon$-Jitter Protocol for Zero-Middleware Payment Settlement**
 - Engineered an automated settlement reconciliation engine eliminating intermediary payment gateway dependencies (2–3% fee avoidance) across native peer-to-peer banking rails.
 - Formulated the **Adaptive $\epsilon$-Jitter Allocation (ADJA)** protocol, establishing provable collision-free payment fingerprinting with $\mathcal{O}(1)$ lookup complexity over bounded search horizons.
